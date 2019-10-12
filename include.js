@@ -742,6 +742,13 @@ let cards = [
     imageLink: "./Art/Dhaval/Welcome-HacktoberFest.gif",
     author: "Dhaval Mehta",
     githubLink: "https://github.com/Dhaval1403"
+  },
+  {
+    artName: "Animation Horn",
+    pageLink: "./Art/Umme/index.html",
+    imageLink: "./Art/Umme/animation-horn.gif",
+    author: "Umme habiba Qadri",
+    githubLink: "https://github.com/umme786"
   }
 ];
 
